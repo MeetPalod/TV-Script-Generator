@@ -8,3 +8,14 @@ Generated new TV scripts for Seinfeld using RNNs by training the model on Seinfe
 
 ## Dataset
 For this project I have used part of the Seinfeld dataset of scripts from 9 seasons, from Kaggle [which you can refer here](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv) for more details. 
+
+### Instructions
+
+1. Clone the repository and navigate to the downloaded folder.
+	```	
+		git clone https://github.com/MeetPalod/TV-Script-Generator
+		cd TV-Script-Generator
+	```
+2. Open the `Dog-breed Classifier.ipynb` file.
+	```
+		jupyter notebook Dog-breed Classifier.ipynb
