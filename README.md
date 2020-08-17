@@ -16,6 +16,6 @@ For this project I have used part of the Seinfeld dataset of scripts from 9 seas
 		git clone https://github.com/MeetPalod/TV-Script-Generator
 		cd TV-Script-Generator
 	```
-2. Open the `Dog-breed Classifier.ipynb` file.
+2. Open the `TV Script Generation with RNN.ipynb` file.
 	```
-		jupyter notebook Dog-breed Classifier.ipynb
+		jupyter notebook TV Script Generation with RNN.ipynb
